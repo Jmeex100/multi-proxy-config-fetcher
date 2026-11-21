@@ -3,6 +3,8 @@
 # List of source URLs to fetch proxy configurations from.
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
+    "https://raw.githubusercontent.com/Jmeex100/multi-proxy-config-fetcher/main/configs.txt",
+    #my source on top
     "https://raw.githubusercontent.com/imegabiz/mahsa-subscription-exporter/main/configs.txt",
     "https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/main/configs/32.1.txt",
     #"https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_1.txt",
@@ -14,7 +16,7 @@ SOURCE_URLS = [
     #"https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_3.txt",
     #"https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt",
     #"https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
-    "https://raw.githubusercontent.com/patterniha/Free-Configs/main/configs.txt",
+    #"https://raw.githubusercontent.com/patterniha/Free-Configs/main/configs.txt",
     "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
     "https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt",
     #"https://raw.githubusercontent.com/iampedii/whitedns-sub/refs/heads/main/base64.txt",
